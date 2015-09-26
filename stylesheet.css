@@ -1,0 +1,31 @@
+#headdiv{
+	position: relative;
+	top: -30px;
+	width: 800px;
+	height: 2px;
+	color: grey;
+	border: 2px solid grey;
+	margin-top: 0px;
+}
+
+body div{ 
+	display: inline-block;
+	height: 2px;
+	width: 800px;
+	background-color: grey;
+	border: 1px solid grey;
+	margin-bottom: 25px;
+}
+
+img{
+	position: relative;
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	float: right;
+	margin-top:-160px;
+}
+#left{
+	position: fixed;
+	float: left;
+}
